@@ -41,7 +41,7 @@ print(mo9)
 
 # =========================================
 
-nameRegex = re.compile(r'First Name: (.*)\, Last Name: (.*)')
+nameRegex = re.compile(r'First Name: (.*), Last Name: (.*)')
 mo10 = nameRegex.findall('First Name: Alex, Last Name: Muller')
 print(mo10)
 
