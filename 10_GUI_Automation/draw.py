@@ -1,3 +1,5 @@
+# Open the Paint program. Move the mouse to the paint and run this script.
+
 import pyautogui
 
 pyautogui.click()
